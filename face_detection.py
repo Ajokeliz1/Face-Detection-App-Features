@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import os
+import cv2
 
 # Fallback for OpenCV
 try:
